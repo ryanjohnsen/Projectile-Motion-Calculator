@@ -1,1 +1,0 @@
-# Projectile-Motion-Calculator
